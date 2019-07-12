@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sunshine Bouquet",
+      "description": "A beautiful and eye-catching bouquet which celebrates the bright colours of the sun.",
+      "keywords": [
+         "Bouquet", "Sunshine"
+      ],
+      "image": "p1.jpg",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "Vintage Flowers Brampton",
+      "description": "The FTD® Sweet Splendor™ Bouquet has a citrus sweet vibe that is set to help you celebrate your special recipient! White traditional daisies provide a perfectly beautiful background for the bold colors of the orange spray roses and yellow mini carnations to pop, making this an unforgettable fresh flower arrangement. Presented in a clear glass vase, this flower bouquet is created just for you to help you send your warmest happy birthday, thank you, or get well wishes to friends and family near and far. ",
+      "keywords": [
+        "Flowers", "Brampton"
+      ],
+      "image": "p2.jpg",
+
+      "price": 38.50
+    },
+    {
+      "id": 3,
+      "name": "CHEERFUL GERBERA DAISIES",
+      "description": "A happy arrangement of a dozen bright gerbera daisies in a glass vase will brighten anyone’s day!*  If you have a colour preference in mind, please let us know in the notes at check out.",
+      "keywords": [
+        "CHEERFUL", "GERBERA", "DAISIES"
+      ],
+      "image": "p3.jpg",
+      "price": 12.99
+    },
+    {
+      "id": 4,
+      "name": "CLASSIC WHITE HYDRANGEA",
+      "description":"Enjoy this classic white hydrangea centerpiece in a rustic pot.",
+      "keywords": [
+        "WHITE", "CLASSIC"
+      ],
+      "image": "p4.jpg",
+      "price": 12.99
+    }
+
+  ]
+}
